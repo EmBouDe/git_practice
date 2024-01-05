@@ -1,6 +1,6 @@
-#Titre du document
+# Titre du document
 
-##Première partie du document
+## Première partie du document
 
 **texte en gras**
 *texte en italique*
